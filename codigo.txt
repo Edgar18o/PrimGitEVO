@@ -1,1 +1,2 @@
 imprime hola
+hola amigos
